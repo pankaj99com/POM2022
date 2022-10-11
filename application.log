@@ -1,0 +1,8 @@
+2022-10-11 15:44:04,418  INFO [main] LoginPageTest:31 - **************Validating Login page title:***************** 
+2022-10-11 15:44:04,969  INFO [main] LoginPageTest:59 - **************Closing browser***************** 
+2022-10-11 15:44:16,902  INFO [main] LoginPageTest:39 - **************Validating logo of login page:***************** 
+2022-10-11 15:44:17,533  INFO [main] LoginPageTest:59 - **************Closing browser***************** 
+2022-10-11 15:44:28,452  INFO [main] LoginPageTest:46 - **************Validating prence of Signup link***************** 
+2022-10-11 15:44:28,799  INFO [main] LoginPageTest:59 - **************Closing browser***************** 
+2022-10-11 15:44:42,128  INFO [main] LoginPageTest:52 - **************entering username and password***************** 
+2022-10-11 15:44:45,536  INFO [main] LoginPageTest:59 - **************Closing browser***************** 
